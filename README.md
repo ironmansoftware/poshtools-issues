@@ -1,4 +1,8 @@
-# Issue Tracker for PowerShell Pro Tools 
+# Issue Tracker for [PowerShell Pro Tools](https://poshtools.com)
+
+## Licensing 
+
+- [IronmanSoftware.com](https://poshtools.com)
 
 ## Downloads
 
