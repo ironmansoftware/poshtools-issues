@@ -2,7 +2,7 @@
 
 ## Downloads
 
-- [PowerShell Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellToolsforVisualStudio2017-18561]
+- [PowerShell Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellToolsforVisualStudio2017-18561)
 - [PowerShell Pro Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ironmansoftware.powershellprotools)
 - [PowerShell Pro Tools Module](https://www.powershellgallery.com/packages/powershellprotools)
 - [PSScriptPad x86](https://psscriptpad.blob.core.windows.net/releases/PSScriptPad.x86.zip)
